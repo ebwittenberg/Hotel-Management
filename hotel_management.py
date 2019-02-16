@@ -92,7 +92,7 @@ while next_user:
 
 
     def check_out():
-        # Initialie variables
+        # Initialize variables
         while True:
             room_number = input('What room number were you: ')
             floor_number = room_number[0]
